@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,198990,(o,t,e)=>{t.exports={geometry:"0:26.267",abstract:"3:27.966",desmos:"2:25.714"}}]);

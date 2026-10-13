@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,451810,(o,e,t)=>{e.exports={colorScheme:"both",cols:5,frequency:4,height:90,imageFormat:"png",rows:5,width:160}}]);

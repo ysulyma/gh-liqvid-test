@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,629512,(t,e,i)=>{e.exports=[{time:"2:04",title:"Start actually coding"},{time:"4:39",title:"Implementing the recursion"},{time:"6:31",title:"I make a syntax error"},{time:"7:21",title:"I fix the syntax error"},{time:"8:50",title:"Counting"}]}]);

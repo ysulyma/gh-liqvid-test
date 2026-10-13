@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,229471,(o,t,e)=>{t.exports={abstract:"3:28.048",desmos:"0:07.082"}}]);

@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,938020,(e,t,i)=>{t.exports=[{time:"2:33",title:"Example"},{time:"5:34",title:"Recursive generation"},{time:"1:00",title:"Defining the problem"},{time:"4:14",title:"Breaking up the problem"},{time:"7:38",title:"Recurrence relations"}]}]);

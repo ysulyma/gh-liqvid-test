@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,377416,(o,e,s)=>{e.exports={"desmos/slider":"1:26.413",spatial:"3:36.546"}}]);

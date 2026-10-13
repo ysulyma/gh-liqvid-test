@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,162052,(o,t,e)=>{t.exports={spatial:"1:00.801"}}]);
